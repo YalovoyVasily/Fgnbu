@@ -1,0 +1,153 @@
+C:\Users\adven\OneDrive\Рабочий стол\Влад\3 курс\Разработка ПМ\KinoZAP\bin\Debug\KinoZAP.exe.config
+C:\Users\adven\OneDrive\Рабочий стол\Влад\3 курс\Разработка ПМ\KinoZAP\bin\Debug\KinoZAP.exe
+C:\Users\adven\OneDrive\Рабочий стол\Влад\3 курс\Разработка ПМ\KinoZAP\bin\Debug\KinoZAP.pdb
+C:\Users\adven\OneDrive\Рабочий стол\Влад\3 курс\Разработка ПМ\KinoZAP\obj\Debug\KinoZAP.csprojAssemblyReference.cache
+C:\Users\adven\OneDrive\Рабочий стол\Влад\3 курс\Разработка ПМ\KinoZAP\obj\Debug\KinoZAP.Authorization.resources
+C:\Users\adven\OneDrive\Рабочий стол\Влад\3 курс\Разработка ПМ\KinoZAP\obj\Debug\KinoZAP.Post.resources
+C:\Users\adven\OneDrive\Рабочий стол\Влад\3 курс\Разработка ПМ\KinoZAP\obj\Debug\KinoZAP.Properties.Resources.resources
+C:\Users\adven\OneDrive\Рабочий стол\Влад\3 курс\Разработка ПМ\KinoZAP\obj\Debug\KinoZAP.csproj.GenerateResource.cache
+C:\Users\adven\OneDrive\Рабочий стол\Влад\3 курс\Разработка ПМ\KinoZAP\obj\Debug\KinoZAP.exe
+C:\Users\adven\OneDrive\Рабочий стол\Влад\3 курс\Разработка ПМ\KinoZAP\obj\Debug\KinoZAP.pdb
+C:\Users\Vasyan\Desktop\KinoZap\KinoZAP\obj\Debug\KinoZAP.csprojAssemblyReference.cache
+C:\Users\Vasyan\Desktop\KinoZap\KinoZAP\obj\Debug\KinoZAP.Ads.resources
+C:\Users\Vasyan\Desktop\KinoZap\KinoZAP\obj\Debug\KinoZAP.Check.resources
+C:\Users\Vasyan\Desktop\KinoZap\KinoZAP\obj\Debug\KinoZAP.Cinema_Halls.resources
+C:\Users\Vasyan\Desktop\KinoZap\KinoZAP\obj\Debug\KinoZAP.Current_Hire.resources
+C:\Users\Vasyan\Desktop\KinoZap\KinoZAP\obj\Debug\KinoZAP.Employee.resources
+C:\Users\Vasyan\Desktop\KinoZap\KinoZAP\obj\Debug\KinoZAP.Hire.resources
+C:\Users\Vasyan\Desktop\KinoZap\KinoZAP\obj\Debug\KinoZAP.Authorization.resources
+C:\Users\Vasyan\Desktop\KinoZap\KinoZAP\obj\Debug\KinoZAP.Order.resources
+C:\Users\Vasyan\Desktop\KinoZap\KinoZAP\obj\Debug\KinoZAP.Place.resources
+C:\Users\Vasyan\Desktop\KinoZap\KinoZAP\obj\Debug\KinoZAP.Post.resources
+C:\Users\Vasyan\Desktop\KinoZap\KinoZAP\obj\Debug\KinoZAP.Properties.Resources.resources
+C:\Users\Vasyan\Desktop\KinoZap\KinoZAP\obj\Debug\KinoZAP.Seans.resources
+C:\Users\Vasyan\Desktop\KinoZap\KinoZAP\obj\Debug\KinoZAP.Tickets.resources
+C:\Users\Vasyan\Desktop\KinoZap\KinoZAP\obj\Debug\KinoZAP.csproj.GenerateResource.cache
+C:\Users\Vasyan\Desktop\KinoZap\KinoZAP\obj\Debug\KinoZAP.exe
+C:\Users\Vasyan\Desktop\KinoZap\KinoZAP\obj\Debug\KinoZAP.pdb
+C:\Users\Vasyan\Desktop\KinoZap\KinoZAP\obj\Debug\KinoZAP.Connection_Form.resources
+C:\Users\Vasyan\Desktop\KinoZap\KinoZAP\bin\Debug\KinoZAP.exe.config
+C:\Users\Vasyan\Desktop\KinoZap\KinoZAP\bin\Debug\KinoZAP.exe
+C:\Users\Vasyan\Desktop\KinoZap\KinoZAP\bin\Debug\KinoZAP.pdb
+C:\Users\Vasyan\Desktop\KinoZap\KinoZAP\obj\Debug\KinoZAP.Settings.resources
+C:\Users\adven\OneDrive\Рабочий стол\KinoZAP\bin\Debug\KinoZAP.exe.config
+C:\Users\adven\OneDrive\Рабочий стол\KinoZAP\bin\Debug\KinoZAP.exe
+C:\Users\adven\OneDrive\Рабочий стол\KinoZAP\bin\Debug\KinoZAP.pdb
+C:\Users\adven\OneDrive\Рабочий стол\KinoZAP\obj\Debug\KinoZAP.csprojAssemblyReference.cache
+C:\Users\adven\OneDrive\Рабочий стол\KinoZAP\obj\Debug\KinoZAP.Ads.resources
+C:\Users\adven\OneDrive\Рабочий стол\KinoZAP\obj\Debug\KinoZAP.Check.resources
+C:\Users\adven\OneDrive\Рабочий стол\KinoZAP\obj\Debug\KinoZAP.Cinema_Halls.resources
+C:\Users\adven\OneDrive\Рабочий стол\KinoZAP\obj\Debug\KinoZAP.Connection_Form.resources
+C:\Users\adven\OneDrive\Рабочий стол\KinoZAP\obj\Debug\KinoZAP.Current_Hire.resources
+C:\Users\adven\OneDrive\Рабочий стол\KinoZAP\obj\Debug\KinoZAP.Employee.resources
+C:\Users\adven\OneDrive\Рабочий стол\KinoZAP\obj\Debug\KinoZAP.Hire.resources
+C:\Users\adven\OneDrive\Рабочий стол\KinoZAP\obj\Debug\KinoZAP.Authorization.resources
+C:\Users\adven\OneDrive\Рабочий стол\KinoZAP\obj\Debug\KinoZAP.Order.resources
+C:\Users\adven\OneDrive\Рабочий стол\KinoZAP\obj\Debug\KinoZAP.Place.resources
+C:\Users\adven\OneDrive\Рабочий стол\KinoZAP\obj\Debug\KinoZAP.Post.resources
+C:\Users\adven\OneDrive\Рабочий стол\KinoZAP\obj\Debug\KinoZAP.Properties.Resources.resources
+C:\Users\adven\OneDrive\Рабочий стол\KinoZAP\obj\Debug\KinoZAP.Seans.resources
+C:\Users\adven\OneDrive\Рабочий стол\KinoZAP\obj\Debug\KinoZAP.Settings.resources
+C:\Users\adven\OneDrive\Рабочий стол\KinoZAP\obj\Debug\KinoZAP.Tickets.resources
+C:\Users\adven\OneDrive\Рабочий стол\KinoZAP\obj\Debug\KinoZAP.csproj.GenerateResource.cache
+C:\Users\adven\OneDrive\Рабочий стол\KinoZAP\obj\Debug\KinoZAP.exe
+C:\Users\adven\OneDrive\Рабочий стол\KinoZAP\obj\Debug\KinoZAP.pdb
+C:\Users\Vasyan\Desktop\KinoZap\KinoZAP\KinoZAP\bin\Debug\KinoZAP.exe.config
+C:\Users\Vasyan\Desktop\KinoZap\KinoZAP\KinoZAP\bin\Debug\KinoZAP.exe
+C:\Users\Vasyan\Desktop\KinoZap\KinoZAP\KinoZAP\bin\Debug\KinoZAP.pdb
+C:\Users\Vasyan\Desktop\KinoZap\KinoZAP\KinoZAP\obj\Debug\KinoZAP.csprojAssemblyReference.cache
+C:\Users\Vasyan\Desktop\KinoZap\KinoZAP\KinoZAP\obj\Debug\KinoZAP.Ads.resources
+C:\Users\Vasyan\Desktop\KinoZap\KinoZAP\KinoZAP\obj\Debug\KinoZAP.Check.resources
+C:\Users\Vasyan\Desktop\KinoZap\KinoZAP\KinoZAP\obj\Debug\KinoZAP.Cinema_Halls.resources
+C:\Users\Vasyan\Desktop\KinoZap\KinoZAP\KinoZAP\obj\Debug\KinoZAP.Connection_Form.resources
+C:\Users\Vasyan\Desktop\KinoZap\KinoZAP\KinoZAP\obj\Debug\KinoZAP.Current_Hire.resources
+C:\Users\Vasyan\Desktop\KinoZap\KinoZAP\KinoZAP\obj\Debug\KinoZAP.Employee.resources
+C:\Users\Vasyan\Desktop\KinoZap\KinoZAP\KinoZAP\obj\Debug\KinoZAP.Hire.resources
+C:\Users\Vasyan\Desktop\KinoZap\KinoZAP\KinoZAP\obj\Debug\KinoZAP.Authorization.resources
+C:\Users\Vasyan\Desktop\KinoZap\KinoZAP\KinoZAP\obj\Debug\KinoZAP.Order.resources
+C:\Users\Vasyan\Desktop\KinoZap\KinoZAP\KinoZAP\obj\Debug\KinoZAP.Place.resources
+C:\Users\Vasyan\Desktop\KinoZap\KinoZAP\KinoZAP\obj\Debug\KinoZAP.Post.resources
+C:\Users\Vasyan\Desktop\KinoZap\KinoZAP\KinoZAP\obj\Debug\KinoZAP.Properties.Resources.resources
+C:\Users\Vasyan\Desktop\KinoZap\KinoZAP\KinoZAP\obj\Debug\KinoZAP.Seans.resources
+C:\Users\Vasyan\Desktop\KinoZap\KinoZAP\KinoZAP\obj\Debug\KinoZAP.Settings.resources
+C:\Users\Vasyan\Desktop\KinoZap\KinoZAP\KinoZAP\obj\Debug\KinoZAP.Tickets.resources
+C:\Users\Vasyan\Desktop\KinoZap\KinoZAP\KinoZAP\obj\Debug\KinoZAP.csproj.GenerateResource.cache
+C:\Users\Vasyan\Desktop\KinoZap\KinoZAP\KinoZAP\obj\Debug\KinoZAP.exe
+C:\Users\Vasyan\Desktop\KinoZap\KinoZAP\KinoZAP\obj\Debug\KinoZAP.pdb
+C:\Users\Vasyan\Desktop\KinoZap\KinoZAP\KinoZAP\bin\Debug\itextsharp.dll
+C:\Users\Vasyan\Desktop\KinoZap\KinoZAP\KinoZAP\obj\Debug\KinoZAP.csproj.CopyComplete
+C:\Users\adven\OneDrive\Рабочий стол\Влад\3 курс\Разработка ПМ\Вася\KinoZAP\KinoZAP\bin\Debug\KinoZAP.exe.config
+C:\Users\adven\OneDrive\Рабочий стол\Влад\3 курс\Разработка ПМ\Вася\KinoZAP\KinoZAP\bin\Debug\KinoZAP.exe
+C:\Users\adven\OneDrive\Рабочий стол\Влад\3 курс\Разработка ПМ\Вася\KinoZAP\KinoZAP\bin\Debug\KinoZAP.pdb
+C:\Users\adven\OneDrive\Рабочий стол\Влад\3 курс\Разработка ПМ\Вася\KinoZAP\KinoZAP\bin\Debug\itextsharp.dll
+C:\Users\adven\OneDrive\Рабочий стол\Влад\3 курс\Разработка ПМ\Вася\KinoZAP\KinoZAP\obj\Debug\KinoZAP.csprojAssemblyReference.cache
+C:\Users\adven\OneDrive\Рабочий стол\Влад\3 курс\Разработка ПМ\Вася\KinoZAP\KinoZAP\obj\Debug\KinoZAP.Ads.resources
+C:\Users\adven\OneDrive\Рабочий стол\Влад\3 курс\Разработка ПМ\Вася\KinoZAP\KinoZAP\obj\Debug\KinoZAP.Check.resources
+C:\Users\adven\OneDrive\Рабочий стол\Влад\3 курс\Разработка ПМ\Вася\KinoZAP\KinoZAP\obj\Debug\KinoZAP.Cinema_Halls.resources
+C:\Users\adven\OneDrive\Рабочий стол\Влад\3 курс\Разработка ПМ\Вася\KinoZAP\KinoZAP\obj\Debug\KinoZAP.Connection_Form.resources
+C:\Users\adven\OneDrive\Рабочий стол\Влад\3 курс\Разработка ПМ\Вася\KinoZAP\KinoZAP\obj\Debug\KinoZAP.Current_Hire.resources
+C:\Users\adven\OneDrive\Рабочий стол\Влад\3 курс\Разработка ПМ\Вася\KinoZAP\KinoZAP\obj\Debug\KinoZAP.Employee.resources
+C:\Users\adven\OneDrive\Рабочий стол\Влад\3 курс\Разработка ПМ\Вася\KinoZAP\KinoZAP\obj\Debug\KinoZAP.Hire.resources
+C:\Users\adven\OneDrive\Рабочий стол\Влад\3 курс\Разработка ПМ\Вася\KinoZAP\KinoZAP\obj\Debug\KinoZAP.Authorization.resources
+C:\Users\adven\OneDrive\Рабочий стол\Влад\3 курс\Разработка ПМ\Вася\KinoZAP\KinoZAP\obj\Debug\KinoZAP.Loading.resources
+C:\Users\adven\OneDrive\Рабочий стол\Влад\3 курс\Разработка ПМ\Вася\KinoZAP\KinoZAP\obj\Debug\KinoZAP.Order.resources
+C:\Users\adven\OneDrive\Рабочий стол\Влад\3 курс\Разработка ПМ\Вася\KinoZAP\KinoZAP\obj\Debug\KinoZAP.Place.resources
+C:\Users\adven\OneDrive\Рабочий стол\Влад\3 курс\Разработка ПМ\Вася\KinoZAP\KinoZAP\obj\Debug\KinoZAP.Post.resources
+C:\Users\adven\OneDrive\Рабочий стол\Влад\3 курс\Разработка ПМ\Вася\KinoZAP\KinoZAP\obj\Debug\KinoZAP.Properties.Resources.resources
+C:\Users\adven\OneDrive\Рабочий стол\Влад\3 курс\Разработка ПМ\Вася\KinoZAP\KinoZAP\obj\Debug\KinoZAP.Seans.resources
+C:\Users\adven\OneDrive\Рабочий стол\Влад\3 курс\Разработка ПМ\Вася\KinoZAP\KinoZAP\obj\Debug\KinoZAP.Settings.resources
+C:\Users\adven\OneDrive\Рабочий стол\Влад\3 курс\Разработка ПМ\Вася\KinoZAP\KinoZAP\obj\Debug\KinoZAP.Tickets.resources
+C:\Users\adven\OneDrive\Рабочий стол\Влад\3 курс\Разработка ПМ\Вася\KinoZAP\KinoZAP\obj\Debug\KinoZAP.csproj.GenerateResource.cache
+C:\Users\adven\OneDrive\Рабочий стол\Влад\3 курс\Разработка ПМ\Вася\KinoZAP\KinoZAP\obj\Debug\KinoZAP.csproj.CopyComplete
+C:\Users\adven\OneDrive\Рабочий стол\Влад\3 курс\Разработка ПМ\Вася\KinoZAP\KinoZAP\obj\Debug\KinoZAP.exe
+C:\Users\adven\OneDrive\Рабочий стол\Влад\3 курс\Разработка ПМ\Вася\KinoZAP\KinoZAP\obj\Debug\KinoZAP.pdb
+C:\Users\Vasyan\Desktop\KinoZap\ZAP++\KinoZAP\bin\Debug\KinoZAP.exe.config
+C:\Users\Vasyan\Desktop\KinoZap\ZAP++\KinoZAP\bin\Debug\KinoZAP.exe
+C:\Users\Vasyan\Desktop\KinoZap\ZAP++\KinoZAP\bin\Debug\KinoZAP.pdb
+C:\Users\Vasyan\Desktop\KinoZap\ZAP++\KinoZAP\bin\Debug\itextsharp.dll
+C:\Users\Vasyan\Desktop\KinoZap\ZAP++\KinoZAP\obj\Debug\KinoZAP.csprojAssemblyReference.cache
+C:\Users\Vasyan\Desktop\KinoZap\ZAP++\KinoZAP\obj\Debug\KinoZAP.Ads.resources
+C:\Users\Vasyan\Desktop\KinoZap\ZAP++\KinoZAP\obj\Debug\KinoZAP.Check.resources
+C:\Users\Vasyan\Desktop\KinoZap\ZAP++\KinoZAP\obj\Debug\KinoZAP.Cinema_Halls.resources
+C:\Users\Vasyan\Desktop\KinoZap\ZAP++\KinoZAP\obj\Debug\KinoZAP.Connection_Form.resources
+C:\Users\Vasyan\Desktop\KinoZap\ZAP++\KinoZAP\obj\Debug\KinoZAP.Current_Hire.resources
+C:\Users\Vasyan\Desktop\KinoZap\ZAP++\KinoZAP\obj\Debug\KinoZAP.Employee.resources
+C:\Users\Vasyan\Desktop\KinoZap\ZAP++\KinoZAP\obj\Debug\KinoZAP.Hire.resources
+C:\Users\Vasyan\Desktop\KinoZap\ZAP++\KinoZAP\obj\Debug\KinoZAP.Authorization.resources
+C:\Users\Vasyan\Desktop\KinoZap\ZAP++\KinoZAP\obj\Debug\KinoZAP.Loading.resources
+C:\Users\Vasyan\Desktop\KinoZap\ZAP++\KinoZAP\obj\Debug\KinoZAP.Order.resources
+C:\Users\Vasyan\Desktop\KinoZap\ZAP++\KinoZAP\obj\Debug\KinoZAP.Place.resources
+C:\Users\Vasyan\Desktop\KinoZap\ZAP++\KinoZAP\obj\Debug\KinoZAP.Post.resources
+C:\Users\Vasyan\Desktop\KinoZap\ZAP++\KinoZAP\obj\Debug\KinoZAP.Properties.Resources.resources
+C:\Users\Vasyan\Desktop\KinoZap\ZAP++\KinoZAP\obj\Debug\KinoZAP.Seans.resources
+C:\Users\Vasyan\Desktop\KinoZap\ZAP++\KinoZAP\obj\Debug\KinoZAP.Settings.resources
+C:\Users\Vasyan\Desktop\KinoZap\ZAP++\KinoZAP\obj\Debug\KinoZAP.Tickets.resources
+C:\Users\Vasyan\Desktop\KinoZap\ZAP++\KinoZAP\obj\Debug\KinoZAP.csproj.GenerateResource.cache
+C:\Users\Vasyan\Desktop\KinoZap\ZAP++\KinoZAP\obj\Debug\KinoZAP.csproj.CopyComplete
+C:\Users\Vasyan\Desktop\KinoZap\ZAP++\KinoZAP\obj\Debug\KinoZAP.exe
+C:\Users\Vasyan\Desktop\KinoZap\ZAP++\KinoZAP\obj\Debug\KinoZAP.pdb
+C:\Users\Vasyan\Desktop\KinoZAP\bin\Debug\KinoZAP.exe.config
+C:\Users\Vasyan\Desktop\KinoZAP\bin\Debug\KinoZAP.exe
+C:\Users\Vasyan\Desktop\KinoZAP\bin\Debug\KinoZAP.pdb
+C:\Users\Vasyan\Desktop\KinoZAP\bin\Debug\itextsharp.dll
+C:\Users\Vasyan\Desktop\KinoZAP\obj\Debug\KinoZAP.csprojAssemblyReference.cache
+C:\Users\Vasyan\Desktop\KinoZAP\obj\Debug\KinoZAP.Ads.resources
+C:\Users\Vasyan\Desktop\KinoZAP\obj\Debug\KinoZAP.Check.resources
+C:\Users\Vasyan\Desktop\KinoZAP\obj\Debug\KinoZAP.Cinema_Halls.resources
+C:\Users\Vasyan\Desktop\KinoZAP\obj\Debug\KinoZAP.Connection_Form.resources
+C:\Users\Vasyan\Desktop\KinoZAP\obj\Debug\KinoZAP.Current_Hire.resources
+C:\Users\Vasyan\Desktop\KinoZAP\obj\Debug\KinoZAP.Employee.resources
+C:\Users\Vasyan\Desktop\KinoZAP\obj\Debug\KinoZAP.Hire.resources
+C:\Users\Vasyan\Desktop\KinoZAP\obj\Debug\KinoZAP.Authorization.resources
+C:\Users\Vasyan\Desktop\KinoZAP\obj\Debug\KinoZAP.Loading.resources
+C:\Users\Vasyan\Desktop\KinoZAP\obj\Debug\KinoZAP.Order.resources
+C:\Users\Vasyan\Desktop\KinoZAP\obj\Debug\KinoZAP.Place.resources
+C:\Users\Vasyan\Desktop\KinoZAP\obj\Debug\KinoZAP.Post.resources
+C:\Users\Vasyan\Desktop\KinoZAP\obj\Debug\KinoZAP.Properties.Resources.resources
+C:\Users\Vasyan\Desktop\KinoZAP\obj\Debug\KinoZAP.Seans.resources
+C:\Users\Vasyan\Desktop\KinoZAP\obj\Debug\KinoZAP.Settings.resources
+C:\Users\Vasyan\Desktop\KinoZAP\obj\Debug\KinoZAP.Tickets.resources
+C:\Users\Vasyan\Desktop\KinoZAP\obj\Debug\KinoZAP.csproj.GenerateResource.cache
+C:\Users\Vasyan\Desktop\KinoZAP\obj\Debug\KinoZAP.csproj.CopyComplete
+C:\Users\Vasyan\Desktop\KinoZAP\obj\Debug\KinoZAP.exe
+C:\Users\Vasyan\Desktop\KinoZAP\obj\Debug\KinoZAP.pdb
